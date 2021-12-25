@@ -1,0 +1,13 @@
+{
+  "name": "codesandtricks/xlsx",
+  "type": "library",
+  "description": "excel file upload",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ayoub br",
+      "email": "ayoub.berouijl10@gmail.com",
+      "role": "Developer"
+    }
+  ]
+}
